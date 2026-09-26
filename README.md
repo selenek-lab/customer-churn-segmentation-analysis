@@ -1,4 +1,4 @@
-# Customer Segmentation & Churn Analysis — Online Retail Dataset
+# Customer Segmentation & Churn Analysis: Online Retail Dataset
 
 Customer retention is significantly more cost-effective than acquiring new customers, 
 making churn prediction and customer segmentation key priorities for any business 
